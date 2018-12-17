@@ -25,7 +25,7 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
         <div class="span2">
         <a href="../assets/headshot1.jpg">
             <img src="../assets/headshot1.jpg"
-                  title="headshot" alt="Palermo Cathedral"/></a>
+                  title="headshot1" alt="Palermo Cathedral"/></a>
         </div>
     </div>
 </div>

@@ -22,7 +22,7 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
             Email: damonmcc1391@gmail.com<br/>
         </div>
 
-        <div class="span6">
+        <div class="span5">
         <a href="../assets/headshot1.jpg">
             <img src="../assets/headshot1.jpg"
                   title="headshot1" alt="Palermo Cathedral"/></a>

@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Blue Ham
+title: Damon McCullough
 description: Blue Ham is a PhD candidate at Broom University. 
 keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
@@ -19,12 +19,12 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
     <div class="row-fluid">
         <div class="span1">
             Damon McCullough<br/>
-            Email: damonmcc1391@gmail.com<br/>
+            damonmcc1391@gmail.com<br/>
         </div>
 
         <div class="span5">
-        <a href="../assets/headshot1.jpg">
-            <img src="../assets/headshot1.jpg"
+        <a href="../assets/headshotDog.jpg">
+            <img src="../assets/headshotDog.jpg"
                   title="headshot" alt="Palermo Cathedral"/></a>
         </div>
     </div>
@@ -35,6 +35,7 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/damonmcc">GitHub</a></li>
+          <li><a href="https://www.behance.net/damonmcc13a993">Behance</a></li>
           <li><a href="https://www.thingiverse.com/fake_tissues/">Thingiverse</a></li>
       </ul>
   </div>

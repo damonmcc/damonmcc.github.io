@@ -25,7 +25,7 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
         <div class="span5">
         <a href="../assets/headshot1.jpg">
             <img src="../assets/headshot1.jpg"
-                  title="headshot1" alt="Palermo Cathedral"/></a>
+                  title="headshot" alt="Palermo Cathedral"/></a>
         </div>
     </div>
 </div>
@@ -34,8 +34,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/damonmcc">GitHub</a></li>
+          <li><a href="https://www.thingiverse.com/fake_tissues/">Thingiverse</a></li>
       </ul>
   </div>
 </div>

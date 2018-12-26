@@ -17,14 +17,14 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
-        <div class="span1">
+        <div class="span5">
             Damon McCullough<br/>
             damonmcc1391@gmail.com<br/>
         </div>
 
-        <div class="span5">
-        <a href="../assets/headshotDog.jpg">
-            <img src="../assets/headshotDog.jpg"
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
                   title="headshot" alt="Palermo Cathedral"/></a>
         </div>
     </div>

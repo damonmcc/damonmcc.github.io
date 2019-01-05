@@ -5,9 +5,9 @@ description: Damon McCullough is a Research Technician at Children's National Me
 keywords: Damon, McCullough, research, cardiovascular, optical mapping, electrophysiology, 3D printing, Python, MatLab
 ---
 
-As a Research Technician for Dr. Nikki Posnack at [Children's National Medical Center](https://childrensnational.org/research-and-education/sheikh-zayed/research-laboratories/nikki-posnack/research), I assist with experiment designs, analyze optical/ECG data, and create figures for publication.
+As a Research Technician for [Dr. Nikki Posnack](https://childrensnational.org/research-and-education/sheikh-zayed/research-laboratories/nikki-posnack/research) at Children's National Medical Center, I assist with experiment design, analyze optical/ECG data, and create figures for publication.
 
-MatLab, Python, and 3D printing are my primary tools for contributing to Dr. Posnack's research interests: investigating the influence of pharmacological and toxicological exposures on cardiovascular and autonomic function. 
+MatLab, Python, and 3D printing are my primary tools for contributing to our lab's work of investigating the influence of pharmacological and toxicological exposures on cardiovascular and autonomic function. We use subcellular mechanistic studies, 3D tissue engineered cardiac models, wholeheart optical mapping, and in vivo electrophysiology.
 
 <!-- His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles. -->
 

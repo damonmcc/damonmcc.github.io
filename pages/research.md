@@ -6,11 +6,22 @@ description: Damon's research
 
 
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+#### <u>Langendorff perfused Heart</u>
+*Retrograde perfusion of the live heart by the way of Langendorff is a simple and elegant preparation to guarantee coronary flow while providing a blood-free canvas for optical mapping. Assessment with high temporal and spatial resolution using optical mapping is the most advanced and rigorous measurement of cardiac electrophysiology currently feasible by today’s technology. We use it in our lab to study the toxicological effects of plasticizing compounds and investigate ionic imbalances associated with ischemia.*
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+[click here for the most recent version of the paper](https://childrensnational.org/research-and-education/sheikh-zayed/research-laboratories/nikki-posnack/research#tab-2)
 
+<div class="container">
+<h4><a name="contact"></a>Contact</h4>
+
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/posnack_langendorff.png"
+                  title="langendorff" alt="posnack_langendorff"/></a>
+        </div>
+    </div>
+</div>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 

@@ -10,7 +10,23 @@ description: Damon's research
 *Retrograde perfusion of the live heart by the way of Langendorff is a simple and elegant preparation to guarantee coronary flow while providing a blood-free canvas for optical mapping. Assessment with high temporal and spatial resolution using optical mapping is the most advanced and rigorous measurement of cardiac electrophysiology currently feasible by today’s technology. We use it in our lab to study the toxicological effects of plasticizing compounds and investigate ionic imbalances associated with ischemia.*
 
 [childrensnational.org](childrensnational.org)
+<div class="container">
+<h4><a name="contact"></a>Contact</h4>
 
+    <div class="row-fluid">
+        <div class="span5">
+            Heart Imaging<br/>
+            Voltage Isochrones<br/>
+            Signal Analysis<br/>
+        </div>
+
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="headshot" alt="Palermo Cathedral"/></a>
+        </div>
+    </div>
+</div>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 

@@ -16,7 +16,7 @@ description: Damon's research
 
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/headshot.jpg">
+        <a href="../assets/posnack_langendorff.png">
             <img src="../assets/posnack_langendorff.png"
                   title="langendorff" alt="posnack_langendorff"/></a>
         </div>

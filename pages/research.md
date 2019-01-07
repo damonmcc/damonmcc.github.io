@@ -21,8 +21,8 @@ description: Damon's research
         </div>
 
         <div class="span2">
-        <a href="../assets/posnack_langendorff.png">
-            <img src="../assets/posnack_langendorff.png"
+        <a href="../assets/posnack_langendorff.jpg">
+            <img src="../assets/posnack_langendorff.jpg"
                   title="cv" alt="cv"/></a>
         </div>
     </div>

@@ -11,7 +11,7 @@ description: Damon's research
 
 [childrensnational.org](childrensnational.org)
 <div class="container">
-<h4><a name="contact"></a>Contact</h4>
+<h4><a name="Results"></a></h4>
 
     <div class="row-fluid">
         <div class="span5">
@@ -21,9 +21,9 @@ description: Damon's research
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="headshot" alt="Palermo Cathedral"/></a>
+        <a href="../assets/posnack_langendorff.png">
+            <img src="../assets/posnack_langendorff.png"
+                  title="cv" alt="cv"/></a>
         </div>
     </div>
 </div>

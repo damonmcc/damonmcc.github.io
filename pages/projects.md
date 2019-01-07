@@ -11,7 +11,7 @@ description: Damon's projects
 Scheduled recording times are set with a rotary encoder while an OLED display shows the menus and inputs.
 After a period of inactivity, the camera shuts down to conserve battery, only starting up to record or after pressing the power switch.*
 
-[github](https://github.com/damonmcc/ViewHive)
+[behance](https://www.behance.net/gallery/60719037/ViewHive-IR-Camera) [github](https://github.com/damonmcc/ViewHive)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->

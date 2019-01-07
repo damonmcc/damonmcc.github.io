@@ -14,13 +14,13 @@ description: Damon's research
 <h4><a name="Results"></a></h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span2">
             Heart Imaging<br/>
             Voltage Isochrones<br/>
             Signal Analysis<br/>
         </div>
 
-        <div class="span2">
+        <div class="span5">
         <a href="../assets/posnack_langendorff.jpg">
             <img src="../assets/posnack_langendorff.jpg"
                   title="cv" alt="cv"/></a>
